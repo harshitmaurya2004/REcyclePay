@@ -21,15 +21,6 @@ Here's a professional and clear `README.md` template for your **RecyclePay** Git
 - **Design & Assets**: Custom graphics, fonts, and animations
 - **Scripts**: Shell scripts for media asset processing
 
-## 🚀 Getting Started
-
-Clone the repository and open `index.html` in your browser:
-
-```bash
-git clone https://github.com/Sagarkrsahu2005/RecyclePay.git
-cd RecyclePay
-open index.html  # or use your preferred browser
-````
 
 > No build tools or servers required – it's a pure static web project.
 
